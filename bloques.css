@@ -5,12 +5,18 @@
     padding: 0px;
 }
 
+
+/* main*/
+
 #wrapper {
     width: 960px;
     background-color: gray;
     padding: 15px;
     margin: auto;
 }
+
+
+/*header banner*/
 
 #header {
     height: 150px;
@@ -20,6 +26,9 @@
     margin-right: 20px;
 }
 
+
+/*nav lateral*/
+
 #navigation {
     min-height: 300px;
     width: 200px;
@@ -27,6 +36,9 @@
     background-color: pink;
     display: inline-block;
 }
+
+
+/*section */
 
 #main_content {
     min-height: 400px;
@@ -38,6 +50,9 @@
     display: inline-block;
 }
 
+
+/*post it (?)*/
+
 .subcontents {
     min-height: 200px;
     width: 210px;
@@ -45,6 +60,9 @@
     margin: 8px;
     display: inline-block;
 }
+
+
+/*no se como ponerle a esto pero footer dentro del section*/
 
 #advertisement {
     min-height: 120px;
